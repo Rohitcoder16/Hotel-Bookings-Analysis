@@ -14,3 +14,6 @@ Analysis of hotel booking data using Excel
 - Microsoft Excel
 - Pivot Tables
 - Dashboard
+
+## Dashboard Preview
+![Dashboard](Dashboard.png)
